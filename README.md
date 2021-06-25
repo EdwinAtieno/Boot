@@ -1,3 +1,5 @@
+
+
 PDF GENERATOR
 CLI app that reads the contents of a simple SQLite school database and convert the whole database to a single PDF document. Prompt the user for an email address to send the PDF to. The email should be a proper one with the header, body, designation and PDF attachment.
 
