@@ -28,3 +28,21 @@ Email part :
 10)	Login to the system
 11)	Send mail and exit
 # Boot_Camp_Project
+
+
+
+ALGORITHM:
+  1) Create a database
+  2) connect database
+  3) read the database
+  4) Display menu: to select convert 1) all 
+  5)                                 2) specific
+  6) convert to pdf
+  7) ask user if wants to send
+  8) Prompt user to input email, header, body, designation and PDF attachment
+
+
+
+
+
+
